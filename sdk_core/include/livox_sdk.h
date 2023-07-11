@@ -48,7 +48,7 @@ void DisableConsoleLogger();
  * Initialize the SDK.
  * @return true if successfully initialized, otherwise false.
  */
-bool Init();
+bool LivoxInit();
 
 /**
  * Start the device scanning routine which runs on a separate thread.
